@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "590043477972",
+    "project_id": "parkingmapguedalia",
+    "storage_bucket": "parkingmapguedalia.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:590043477972:android:9a08d000bdeb58b474c841",
+        "android_client_info": {
+          "package_name": "com.android.stam_app_essai"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxkMYd5Qs5eCCo8K0AhV4g2us4VP4k9CU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:590043477972:android:91c912d18ceca61e74c841",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_3"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxkMYd5Qs5eCCo8K0AhV4g2us4VP4k9CU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:590043477972:android:1e2f1d93931e1ef174c841",
+        "android_client_info": {
+          "package_name": "com.example.now_it_work"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxkMYd5Qs5eCCo8K0AhV4g2us4VP4k9CU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
